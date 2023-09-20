@@ -161,6 +161,8 @@ Github extens the functionality of Markdown tables to provide more alignment and
 
 ![Photo logo new skull](assets/the-pipe.jpg.webp)
 
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
+
 ## References 
 - [Basic writing and formatting syntax
 ](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <sub>[1]</sub>
